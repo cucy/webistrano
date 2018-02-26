@@ -86,3 +86,7 @@ OK
 # 修改admin密码
 6e53fb4e26ca4d2278bc4c3355930cf377ef136e
 59b3d6f734b09554aeb3e9969bc2340a633fd6b0
+
+
+# 运行
+ruby script/server  -p 13000 -e production
