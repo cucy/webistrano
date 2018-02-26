@@ -79,3 +79,10 @@ ln -s /usr/local/lib/libiconv.so.2 /usr/lib/libiconv.so.2
 再执行一下ldconfig" B& M9 ?/ N4 ~. K% A0 W- @
 ' x/ P  M9 W9 d% l
 OK
+
+
+
+
+# 修改admin密码
+6e53fb4e26ca4d2278bc4c3355930cf377ef136e
+59b3d6f734b09554aeb3e9969bc2340a633fd6b0
