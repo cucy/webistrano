@@ -94,3 +94,7 @@ rake (10.1.1)
 rubygems-bundler (1.4.4)
 rvm (1.11.3.9)
 ```
+
+# mysql
+
+5.5 - 5.7
