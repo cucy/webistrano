@@ -37,21 +37,6 @@ rvm install rubygems 1.3.7 --force
 
 
 
-gem list
-
-*** LOCAL GEMS ***
-
-bundler-unload (1.0.2)
-executable-hooks (1.4.2)
-gem-wrappers (1.3.2)
-iconv (1.0.5)
-mysql (2.9.1)
-rack (1.0.1)
-rake (10.1.1)
-rubygems-bundler (1.4.4)
-rvm (1.11.3.9)
-
-
 
 
 
