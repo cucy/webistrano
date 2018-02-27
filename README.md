@@ -1,4 +1,5 @@
 ruby version 1.8.7
+```
 如有必要,安装此版本,即ruby-1.8.7-p352.tar.gz: ruby 1.8.7 (2011-06-30 patchlevel 352) [x86_64-linux]
 
 gem版本使用1.3.7
@@ -9,9 +10,9 @@ gems 需要rack=1.0.1, mysql
 gem install rack -v=1.0.1
 gem install mysql
 直接ruby scripts/server运行即
+```
 
-
-
+```
 $ mkdir -p ~/.rvm/user/
 $ echo "ruby_url=https://cache.ruby-china.org/pub/ruby" > ~/.rvm/user/db
 $ gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
@@ -20,7 +21,7 @@ $ source ~/.bashrc
 $ source ~/.bash_profile
 
 $ rvm install 1.8.7-p352 --disable-binary
-
+```
 
 
 
@@ -92,8 +93,10 @@ OK
 ruby script/server  -p 13000 -e production
 
 # 包
+
 └──┤ gem list
 
+```
 *** LOCAL GEMS ***
 
 bundler-unload (1.0.2)
@@ -105,4 +108,4 @@ rack (1.0.1)
 rake (10.1.1)
 rubygems-bundler (1.4.4)
 rvm (1.11.3.9)
-
+```
